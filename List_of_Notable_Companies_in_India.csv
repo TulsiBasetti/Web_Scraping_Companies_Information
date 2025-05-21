@@ -1,0 +1,481 @@
+,Name,Industry,Sector,Headquarters,Founded,Notes,Status_Type,Status_State
+0,63 Moons Technologies,Technology,Software,Mumbai,1988,Financial technology,P,A
+1,Aban Offshore,Energy,Oil & gas offshore drilling & other services,Chennai,1986,"Oil, petrochemical",P,A
+2,ABG Shipyard,Industrials,Shipbuilding,Ahmedabad,1985,Ship building,P,A
+3,ABP Group,Consumer services,Broadcasting & entertainment,Kolkata,1922,"Media, news",P,A
+4,ACC,Industrials,Cement,Mumbai,1936,Cement,P,A
+5,ACG Group,Industrials,Machinery: specialty,Mumbai,1961,Pharmaceutical industry machinery & medicinal materials manufacturer,P,A
+6,Acko General Insurance,Insurance,Full line insurance,Mumbai,2016,Insurance,P,A
+7,Action Construction Equipment,Industrials,Machinery: construction & handling,Faridabad,1995,"Bulldozers, cranes",P,A
+8,Action Group,Conglomerate,—,New Delhi,1972,"Apparel, chemicals, retail, steel",P,A
+9,Adani Group,Conglomerate,—,Ahmedabad,1988,Conglomerate,P,A
+10,Adani Power,Utilities,Alternative electricity,Mumbai,1910,"Thermal & solar power generation, part of Adani Group",P,A
+11,Aditya Birla Fashion and Retail,Retail,Apparel retailers,Mumbai,1997,Clothing retailer,P,A
+12,Aditya Birla Group,Conglomerate,—,Mumbai,1857,"Agribusiness, cement, chemicals",P,A
+13,Ador Group,Conglomerate,—,Mumbai,1977,"Electronics, energy, chemicals",P,A
+14,Advanced Weapons and Equipment India,Industrials,Defense,Kanpur,2021,Weapons,S,A
+15,Afcons Infrastructure,Industrials,Construction,Mumbai,1959,Constructions,P,A
+16,Agriculture Insurance Company of India,Insurance,Full line insurance,New Delhi,2002,Insurance,S,A
+17,Air Costa,Consumer services,Airlines,Vijayawada,2013,Defunct 2017,P,D
+18,Air India,Consumer services,Airlines,New Delhi,1932,"Airline, part of Tata Sons",P,A
+19,Air India Express,Consumer services,Airlines,Kochi,2005,"Low-cost airline, part of Air India",P,A
+20,Ajanta Group,Conglomerate,—,Ahmedabad,1971,"Textile, transport, construction machinery",P,A
+21,Alkem Laboratories,Health care,Pharmaceuticals,Mumbai,1973,Pharma,P,A
+22,Allcargo Logistics,Industrials,Industrial transportation,Mumbai,1993,Logistics & transportation,P,A
+23,Amartex,Basic materials,Textile products,Gurugram,1984,Textiles,P,A
+24,Ambuja Cements,Industrials,Cement,Mumbai,1983,Cement,P,A
+25,Amrutanjan Healthcare,Health care,Ayurvedic producers,Chennai,1893,Alternative medicines,P,A
+26,Amul,Consumer goods,Food products,Anand,1946,Dairy,P,A
+27,Angel One,Financials,Investment services,Mumbai,1996,Stock broker,P,A
+28,Apollo Hospitals,Health care,Health care providers,Chennai,1983,Hospital chain,P,A
+29,Apollo Tyres,Consumer goods,Tires,Gurugram,1972,"Tyres, parts",P,A
+30,Aptech,Industrials,Business training & employment agencies,Mumbai,1986,Training,P,A
+31,Archies,Retail,Specialty retailers,New Delhi,1979,Greeting cards,P,A
+32,Arise India,Consumer goods,Consumer electronics,Delhi,1995,"Electrical goods, home appliances",P,A
+33,Armoured Vehicles Nigam,Industrials,Defense,Chennai,2021,Armoured military vehicles,S,A
+34,Artemis Hospital,Health care,Health care providers,Gurugram,2007,Hospitals,P,A
+35,Arvind,Conglomerate,—,Ahmedabad,1931,"Clothing, engineering, real estate",P,A
+36,Ashok Leyland,Industrials,Commercial vehicles & parts,Chennai,1948,"Bus, trucks, defense vehicles, joint venture of Hinduja Group & Nissan (Japan)",P,A
+37,Asia MotorWorks,Industrials,Commercial vehicles & parts,Mumbai,2002,Trucks,P,A
+38,Asian Paints,Industrials,Paints and coatings,Mumbai,1942,Paints,P,A
+39,Atul,Chemicals,Chemicals: diversified,Ahmedabad,1947,Integrated chemicals,P,A
+40,Atul Auto,Consumer goods,Automobiles,Rajkot,1970,Auto-rickshaws,P,A
+41,Avantha Group,Conglomerate,—,New Delhi,1919,"Chemicals, I/T, BPO",P,A
+42,Axis Bank,Financials,Banks,Ahmedabad,1993,,P,A
+43,Bajaj Auto,Consumer goods,Automobiles,Pune,1945,"Motorcycles, part of Bajaj Group",P,A
+44,Bajaj Group,Conglomerate,—,Pune,1945,"Motorcycles, financial services, electricals, sugar, iron & steel, insurance, consumer goods",P,A
+45,Balaji Telefilms,Consumer services,Broadcasting & entertainment,Mumbai,1994,Film production,P,A
+46,Balaji Wafers,Consumer goods,Food products,Mumbai,1975,Potato chips,P,A
+47,Ballarpur Industries,Basic materials,Paper,Gurugram,1945,Paper,P,A
+48,Bank of Baroda,Financials,Banks,Vadodara,1908,State-owned bank,S,A
+49,Bank of India,Financials,Banks,Mumbai,1906,Government-owned bank,S,A
+50,Bellatrix Aerospace,Industrials,"Aerospace, space industry",Bengaluru,2015,Launch vehicles & satellites,P,A
+51,BEML,Industrials,Commercial vehicles & parts,Bengaluru,1964,"Defense vehicles, heavy construction vehicles, rail vehicles",S,A
+52,Bharat Aluminium Company,Basic materials,Aluminium,New Delhi,1965,"Aluminium, part of Vedanta Resources (UK)",P,A
+53,Bharat Biotech,Health care,Pharmaceuticals & biotechnology,Hyderabad,1996,Drug development & vaccines,P,A
+54,Bharat Dynamics Limited,Industrials,Aerospace & defense,Hyderabad,1970,"State-owned missiles, defense",S,A
+55,Bharat Electronics,Industrials,Aerospace & defense,Bengaluru,1954,"State-owned electronics, defense",S,A
+56,Bharat Forge,Industrials,Industrial engineering,Pune,1961,"Engineering and machinery, part of Kalyani Group",P,A
+57,Bharat Heavy Electricals Limited,Industrials,Electrical equipment & components,New Delhi,1964,State electrical engineering,S,A
+58,Bharat Petroleum,Energy,Oil refining & marketing,Mumbai,1976,"refineries, petrochemical",S,A
+59,Bharat Sanchar Nigam Limited,Telecommunications,Telecommunications service providers,New Delhi,2000,Fixed-line telecommunications,S,A
+60,BHAVINI,Utilities,Conventional electricity,Chennai,2003,State nuclear power generation,S,A
+61,Bharti Airtel,Telecommunications,Telecommunications services,New Delhi,1995,Mobile network,P,A
+62,Biocon,Health care,Pharmaceuticals & biotechnology,Bengaluru,1978,Pharmaceutical ingredients,P,A
+63,Blue Star,Consumer goods,Consumer electronics,Mumbai,1943,Home appliances,P,A
+64,BluSmart,Technology,Consumer digital services,Gurugram,2019,"Taxi services, ride-sharing",P,A
+65,Bombay Dyeing,Basic materials,Textile products,Mumbai,1879,Textiles,P,A
+66,Bonn Group of Industries,Consumer goods,Food products,Ludhiana,1985,Baked goods,P,A
+67,Borosil,Industrials,Glass,Mumbai,1962,Glassware,P,A
+68,BPL Group,Consumer goods,Consumer electronics,Palakkad,1963,"Consumer electronics, healthcare equipment",P,A
+69,BrahMos Aerospace,Industrials,Aerospace & defense,New Delhi,1998,"State-owned missile systems, joint venture with Tactical Missiles Corporation (Russia)",S,A
+70,Brigade Group,Real estate,Real estate holding & development,Bengaluru,1986,Real estate,P,A
+71,Britannia Industries,Consumer goods,Food products,Kolkata,1892,Food products,P,A
+72,Café Coffee Day,Consumer services,Restaurants & bars,Bengaluru,1996,Cafe chain,P,A
+73,Canara Bank,Financials,Banks,Bengaluru,1906,State-owned bank,S,A
+74,CaratLane,Retail,Specialty retailers,Chennai,2008,"Luxury items retail, owned by Titan Company",P,A
+75,CEAT,Consumer goods,Tires,Mumbai,1958,Tyres,P,A
+76,Celkon,Consumer goods,Consumer electronics,Hyderabad,2009,Mobile handsets,P,A
+77,Central Bank of India,Financials,Banks,Mumbai,1911,Central bank,S,A
+78,Centum Electronics,Industrials,Electronic equipment & components,Bengaluru,1993,Electronics,P,A
+79,Century Plyboards,Industrials,Building materials: other,Kolkata,1986,Plywood,P,A
+80,CESC Limited,Utilities,Conventional electricity,Kolkata,1897,Thermal power generation,P,A
+81,CG Power and Industrial Solutions,Industrials,Diversified industrials,Mumbai,1878,"Electrical engineering, power generation",P,A
+82,Chennai Petroleum Corporation,Energy,Oil refining & marketing,Chennai,1965,"refineries, part of Indian Oil Corporation",S,A
+83,Cipla,Health care,Pharmaceuticals,Mumbai,1935,Pharma,P,A
+84,City Union Bank,Financials,Banks,Kumbakonam,1904,Bank,P,A
+85,CMC,Industrials,Business support services,New Delhi,1975,Information technology consulting,P,A
+86,Coal India,Energy,Coal,Kolkata,1975,Coal mining,S,A
+87,Cochin Minerals and Rutile Limited,Chemicals,Specialty chemicals,Kochi,1989,Minerals,P,A
+88,Cochin Shipyard,Industrials,Shipbuilding,Kochi,1972,Ship building,S,A
+89,Computer Age Management Services,Financials,Investment services,Chennai,1988,"Stock market, mutual funds",P,A
+90,Container Corporation of India,Industrials,Railroads,New Delhi,1988,"Cargo rail transportation, part of Indian Railways",S,A
+91,Coromandel International,Chemicals,Fertilizers,Hyderabad,1960,"Fertilizers, pesticides",P,A
+92,Cosmic Circuits,Technology,Semiconductors,Bengaluru,2005,Acquired by Cadence Design Systems (USA),P,D
+93,Crossword Bookstores,Retail,Specialty retailers,Mumbai,1992,Bookstore,P,A
+94,CSB Bank,Financials,Banks,Thrissur,1920,Private bank,P,A
+95,Cyient,Technology,Software & IT services,Hyderabad,1991,"Engineering outsourcing services, software management & technology consulting",P,A
+96,Dabur,Health care,Ayurvedic producers,Ghaziabad,1884,Alternative medicines,P,A
+97,Damodar Valley Corporation,Utilities,Conventional electricity,Kolkata,1948,Hydropower,S,A
+98,Deccan Charters,Consumer services,Airlines,Bengaluru,1997,Charter airline,P,A
+99,Dedicated Freight Corridor Corporation of India,Industrials,Railroads,New Delhi,2006,"Freight transport, part of Ministry of Railways (India)",S,A
+100,Dempo,Basic materials,General mining,Panaji,1941,Mining,P,A
+101,Dena Bank,Financials,Banks,Mumbai,1938,State bank,S,A
+102,Dish TV,Consumer services,Broadcasting & entertainment,Noida,2003,Satellite television,P,A
+103,Dixon Technologies,Industrials,Electronic equipment & components,Noida,1993,Electronics manufacturing services,P,A
+104,DLF,Real estate,Real estate holding & development,New Delhi,1946,Developer,P,A
+105,DMart,Retail,Diversified retailers,Mumbai,2002,Supermarkets,P,A
+106,Dr. Reddy's Laboratories,Health care,Pharmaceuticals,Hyderabad,1984,Pharma,P,A
+107,Dynamatic Technologies,Industrials,Industrial engineering,Bengaluru,1973,"Aerospace, automotive, hydraulics, security",P,A
+108,EaseMyTrip,Consumer services,Travel & tourism,New Delhi,2008,Travel booking,P,A
+109,Edelweiss Group,Financials,Financial services,Mumbai,1995,Finance & investment,P,A
+110,Eicher Motors,Industrials,Commercial vehicles & parts,Gurugram,1948,"Bus, trucks",P,A
+111,EID Parry,Consumer goods,Food products,Chennai,1788,"Sugar, distillery",P,A
+112,Electronics Corporation of India Limited,Industrials,Electronic equipment & components,Hyderabad,1967,Nuclear electronics,S,A
+113,eLitmus,Industrials,Business training & employment agencies,Bengaluru,2005,Assessment exam,P,A
+114,Emami,Conglomerate,—,Kolkata,1974,"Fast-moving consumer goods, healthcare, retail, cement, real estate",P,A
+115,Emcure Pharmaceuticals,Health care,Pharmaceuticals,Pune,1983,Pharma,P,A
+116,Engineers India,Industrials,Engineering and contracting services,New Delhi,1965,Engineering and consulting,S,A
+117,English Indian Clays,Basic materials,General mining,New Delhi,1963,Clay,P,A
+118,Escorts Kubota Limited,Industrials,Industrial engineering,Faridabad,1960,"Heavy equipment, machines",P,A
+119,Essar Group,Conglomerate,—,Mumbai,1969,"Steel, oil & gas, shipping, real estate",P,A
+120,Essel Group,Conglomerate,—,Mumbai,1926,"Media, technology, basic materials",P,A
+121,Eureka Forbes,Consumer goods,Consumer electronics,Mumbai,1982,Home appliances,P,A
+122,Eveready Industries India,Consumer goods,Durable household products,Kolkata,1905,"Batteries, flashlights, lamps",P,A
+123,Exide Industries,Industrials,Electrical equipment & components,Kolkata,1947,Batteries,P,A
+124,Exide Life Insurance,Financials,Life insurance,Bengaluru,2001,"Life insurance, part of Exide Industries",P,A
+125,Federal Bank,Financials,Banks,Kochi,1931,Private bank,P,A
+126,Firstsource,Industrials,Business support services,Mumbai,2001,BPO,P,A
+127,Flipkart,Technology,Consumer digital services,Bengaluru,2007,E-commerce,P,A
+128,Forbes & Company Limited,Conglomerate,—,Mumbai,1767,"Banking kiosk, ATM, robotics, industrial automation, logistics, part of Shapoorji Pallonji Group",P,A
+129,Force Motors,Consumer goods,Automobiles,Pune,1958,Automotive,P,A
+130,Fortis Healthcare,Health care,Health care providers,Gurugram,2001,Hospitals,P,A
+131,Future Group,Retail,Diversified retailers,Mumbai,1987,"Defunct 2022, acquired by Reliance Industries",P,D
+132,GAIL,Utilities,Gas distribution,New Delhi,1984,Natural gas,S,A
+133,Galaxy Surfactants,Chemicals,Specialty chemicals,Navi Mumbai,1980,Chemicals,P,A
+134,Garden Reach Shipbuilders & Engineers,Industrials,Shipbuilding,Kolkata,1884,Ship building,S,A
+135,Geojit Financial Services,Financials,Investment services,Kochi,1987,Investment advisory services,P,A
+136,Gini & Jony,Consumer goods,Clothing & accessories,Mumbai,1980,Children's clothes,P,A
+137,Glenmark Pharmaceuticals,Health care,Pharmaceuticals,Mumbai,1977,Pharma,P,A
+138,Gliders India,Industrials,Defense,Nagpur,2021,Military parachute manufacturer,S,A
+139,GMR Group,Real estate,Real estate holding & development,New Delhi,1978,Development projects,P,A
+140,Go First,Consumer services,Airlines,Mumbai,2005,Low-cost airline,P,A
+141,Goa Shipyard,Industrials,Shipbuilding,Goa,1957,Ship building,S,A
+142,Godrej Group,Conglomerate,—,Mumbai,1897,"Aerospace, consumer goods, real estate",P,A
+143,Great Eastern Shipping,Industrials,Marine transportation,Mumbai,1948,Shipping,P,A
+144,Greaves Cotton,Industrials,Industrial engineering,Mumbai,1859,"Engines, gensets, construction equipment, farm equipment & pumps",P,A
+145,Greenply,Industrials,Building materials: other,Tinsukia,1990,Plywood,P,A
+146,Gujarat Alkalies and Chemicals Limited,Chemicals,Specialty chemicals,Noida,1973,Produce chemicals,S,A
+147,Gujarat Mineral Development Corporation,Basic materials,General mining,Ahmedabad,1963,"Mining, metals",S,A
+148,Gujarat State Fertilizers and Chemicals,Chemicals,Fertilizers,Vadodara,1962,Fertilizers,S,A
+149,Gujarat State Petroleum Corporation,Energy,Oil refining & marketing,Ahmedabad,1979,Petrochemicals refining,S,A
+150,GVK Industries,Conglomerate,—,Hyderabad,2005[5],"Energy, transportation, hospitality",P,A
+151,Haldiram's,Consumer goods,Food products,Bikaner,1937,Sweets and snacks,P,A
+152,Haptik,Technology,Software,Mumbai,2013,"AI Software, part of Jio Platforms",P,A
+153,Hatsun Agro Product,Consumer goods,Food products,Chennai,1970,"Arun Icecreams, Arokya Milk, Hatsun Daily, Ibaco, Oyalo, Santosa",P,A
+154,Havells,Industrials,Electrical equipment & components,Noida,1958,Electrical equipment,P,A
+155,Hawkins Cookers,Consumer goods,Durable household products,Mumbai,1921,Cookware,P,A
+156,HCLTech,Industrials,Business support services,Noida,1976,Consulting,P,A
+157,HDFC Bank,Financials,Banks,Mumbai,1994,Bank,P,A
+158,Hero Cycles,Consumer goods,Recreational products,Ludhiana,1956,"Bicycles, part of Hero Motors",P,A
+159,Hero FinCorp,Financials,Financial services,New Delhi,1991,"Financing, part of Hero MotoCorp",P,A
+160,Hero MotoCorp,Consumer goods,Automobiles,Gurugram,1984,"Motorcycles, part of Hero Motors",P,A
+161,HFCL,Telecommunications,Telecommunications equipment,New Delhi,1987,"Optical fiber, telecom equipment",P,A
+162,Himalaya Wellness Company,Health care,Ayurvedic producers,Bengaluru,1930,Alternative medicines,P,A
+163,Hindalco Industries,Basic materials,Aluminium,Mumbai,1958,Aluminium,P,A
+164,Hinduja Group,Conglomerate,—,Mumbai,1914,"Automotive, financial services, energy, media, telecom, healthcare",P,A
+165,Hinduja Healthcare,Health care,Health care providers,Mumbai,?,"Hospitals, part of Hinduja Group",P,A
+166,Hindustan Aeronautics Limited,Industrials,Aerospace & defense,Bengaluru,1940,"State-owned aircraft, defense",S,A
+167,Hindustan Construction Company,Real estate,Real estate holding & development,Mumbai,1926,Real estate development,P,A
+168,Hindustan Copper,Basic materials,Copper,Kolkata,1967,State-run mining,S,A
+169,Hindustan Motors,Consumer goods,Automobiles,Kolkata,1942,"Automotive, part of CK Birla Group",P,A
+170,Hindustan Petroleum,Energy,Oil refining & marketing,Mumbai,1974,"refineries, part of Oil and Natural Gas Corporation",S,A
+171,Hindustan Shipyard,Industrials,Shipbuilding,Visakhapatnam,1941,Ship building,S,A
+172,Hindustan Times,Consumer services,Publishing,New Delhi,1924,Daily newspaper,P,A
+173,Hindustan Zinc,Basic materials,Nonferrous metals,Udaipur,1966,"Zinc mining, part of Vedanta Resources (UK)",P,A
+174,HLL Lifecare,Health care,"Pharmaceuticals, Medical equipment",Thiruvananthapuram,1966,"State-owned condoms, contraceptives & surgical equipment manufacturing",S,A
+175,HMT Limited,Industrials,Diversified industrials,Bengaluru,1953,State-owned manufacturing,S,A
+176,Housing Development Finance Corporation,Financials,Financial services,Mumbai,1977,Housing finance,P,A
+177,iball,Consumer goods,Consumer electronics,Mumbai,2001,"Computers, consumer items",P,A
+178,ICICI Bank,Financials,Banks,Mumbai,1994,International bank,P,A
+179,IDBI Bank,Financials,Banks,Mumbai,1964,State bank,S,A
+180,IDFC First Bank,Financials,Banks,Mumbai,2015,Part of IDFC,P,A
+181,Indegene,Health care,Health care services,Bengaluru,1998,Pharmaceutical consultancy,P,A
+182,India Cements,Industrials,Cement,Tirunelveli,1946,Cement,P,A
+183,India Optel,Industrials,Electronic equipment & components,Dehradun,2021,"Opto-electronics, defense products",S,A
+184,Indiabulls,Financials,Financial services,Gurugram,2000,Finance,P,A
+185,India Infoline,Financials,Financial services,Mumbai,1995,Financial services,P,A
+186,Indian Bank,Financials,Banks,Chennai,1907,State-owned financial services,S,A
+187,Indian Hotels Company Limited,Consumer services,Hotels & motels,Mumbai,1902,"Hospitality group, Taj Hotels, Vivanta, Ginger Hotels, part of Tata Sons",P,A
+188,Indian Oil Corporation,Energy,Oil refining & marketing,New Delhi,1959,Petrochemicals refining,S,A
+189,Indian Overseas Bank,Financials,Banks,Chennai,1937,Public bank,S,A
+190,Indian Railway Finance Corporation,Financials,Financial services,New Delhi,1976,"Railway finance, part of Indian Railways",S,A
+191,Indian Railways,Industrials,Railroads,New Delhi,1853,State railway,S,A
+192,Indian Railway Stations Development Corporation,Industrials,Railroads,New Delhi,2012,Railway station redevelopment,P,D
+193,Indian Telephone Industries Limited,Telecommunications,Telecommunications equipment,Bengaluru,1949,State telecom equipment,S,A
+194,IndiGo,Consumer services,Airlines,Gurugram,2006,Low-cost airline,P,A
+195,IndusInd Bank,Financials,Banks,Mumbai,1994,Bank,P,A
+196,Infibeam,Technology,Consumer digital services,Ahmedabad,2007,"E-commerce, fintech",P,A
+197,Infosys,Industrials,Business support services,Bengaluru,1981,Consulting,P,A
+198,Infrastructure Development Finance Company,Financials,Asset managers,Chennai,1997,"Finance, advice",S,A
+199,Infrastructure Leasing & Financial Services,Financials,Financial services,Mumbai,1987,Infrastructure development,S,A
+200,InMobi,Technology,Consumer digital services,Bengaluru,2007,Online marketing,P,A
+201,Inox Air Products,Basic materials,Specialty chemicals,Mumbai,1963,Industrial gases manufacturer & trader,P,A
+202,Integral Coach Factory,Industrials,Railroad equipment,Chennai,1955,Part of Indian Railways,S,A
+203,Intelenet Global Services,Industrials,Business support services,Mumbai,2000,"Consulting, BPO",P,A
+204,Intex Technologies,Consumer goods,Consumer electronics,New Delhi,1996,"Consumer electronics, mobile handsets",P,A
+205,Ircon International,Industrials,Construction,New Delhi,1976,"Railway constructions, part of Indian Railways",S,A
+206,ITC Limited,Conglomerate,—,Kolkata,1910,"Consumer goods, hotels, industrials",P,A
+207,Ittiam Systems,Technology,Software & IT services,Bengaluru,2001,Digital signal processing services,P,A
+208,Jabong.com,Technology,Consumer digital services,Gurugram,2012,"E-commerce portal, defunct 2020",P,D
+209,Jain Irrigation Systems,Industrials,Agricultural & farm machinery,Jalgaon,1986,Irrigation equipment,P,A
+210,Jakson Group,Industrials,Industrial engineering,Noida,1947,"Diesel generators, solar PV modules",P,A
+211,Jawa Motorcycles,Consumer goods,Automobiles,Mysuru,1960,"Motorcycles, joint venture of Mahindra & Mahindra & Jawa Moto (Czechia)",P,A
+212,ISRO,Industrials,"Aerospace, space industry",Bengaluru,1962,"State-owned aerospace research, launch vehicles & satellites",S,A
+213,Jaypee Group,Conglomerate,—,Noida,1979,"Engineering, real estate, cement",P,A
+214,Jet Airways,Consumer services,Airlines,Mumbai,1992,Revived in 2022,P,A
+215,Jio-bp,Energy,Integrated oil & gas,Ahmedabad,2008,"Oil & gas exploration and production, joint venture of Reliance Industries & BP (UK)",P,A
+216,Jio,Telecommunications,Telecommunications services,Navi Mumbai,2007,"Mobile network, part of Jio Platforms",P,A
+217,Jio Platforms,Conglomerate,—,Navi Mumbai,2019,"Telecommunications, e-commerce, media, streaming, online services, virtual reality, part of Reliance Industries",P,A
+218,Jindal Stainless,Basic materials,Iron & steel,New Delhi,1970,Steel,P,A
+219,Jindal Steel and Power,Basic materials,Iron & steel,New Delhi,1952,Steel,P,A
+220,Jupiter Wagons,Railways,Railroad equipment,Kolkata,1979,Railways,P,A
+221,JSW Energy,Utilities,Conventional electricity,Mumbai,1994,"Hydropower & thermal power, part of JSW Group",P,A
+222,JSW Group,Conglomerate,—,Mumbai,1982,"Automotive, steel, energy, infrastructure, cement, paint, financials",P,A
+223,JSW MG Motor India,Consumer goods,Automobiles,Gurugram,2017,"Automotive, joint venture of JSW Group & SAIC Motor (China)",P,A
+224,JSW Steel,Basic materials,Iron & steel,Mumbai,1982,"Steel, part of JSW Group",P,A
+225,Jubilant FoodWorks,Consumer services,Restaurants & bars,Noida,1995,Food services,P,A
+226,K Raheja Corp,Real estate,Real estate holding & development,Mumbai,1956,"IT Parks, parent company of Raheja Mindspace",P,A
+227,Kalyani Group,Conglomerate,—,Pune,?,"Engineering, steel, automotive, defense, energy, infrastructure",P,A
+228,Karbonn Mobiles,Consumer goods,Consumer electronics,New Delhi,2009,Mobile handsets,P,A
+229,Karnataka Bank,Financials,Banks,Mangaluru,1924,Bank,P,A
+230,Karur Vysya Bank,Financials,Banks,Karur,1916,Bank,P,A
+231,Kerala Automobiles Limited,Consumer goods,Automobiles,Thiruvananthapuram,1978,Auto-rickshaws,P,A
+232,Kerala Electrical and Allied Engineering Company,Industrials,Electrical equipment & components,Kochi,1964,Heavy electricals,S,A
+233,Khadim's,Consumer goods,Footwear,Kolkata,1981,Footwear,P,A
+234,Kingfisher,Consumer goods,Brewery,Bengaluru,1857,"Alcoholic beverages, brewery, part of United Breweries Group (Netherlands)",P,A
+235,Kirloskar Group,Conglomerate,—,Pune,1888,"Industrials, construction, automotive",P,A
+236,Kokuyo Camlin,Consumer goods,Nondurable household products,Mumbai,1931,"Pens, stationery",P,A
+237,Konkan Railway Corporation,Industrials,Railroads,Navi Mumbai,1990,"Railway, part of Indian Railways",S,A
+238,Kotak Mahindra Bank,Financials,Banks,Mumbai,1965,Bank,P,A
+239,KPIT Technologies,Consumer goods,Automobiles & parts,Pune,1990,Automotive engineering & technologies,P,A
+240,KSK Energy Ventures,Utilities,Conventional electricity,Hyderabad,2001[6],Thermal power generation,P,A
+241,Kudremukh Iron Ore Company,Basic materials,Iron & steel,Mangaluru,1976,"Mining, iron",S,A
+242,Lakshmi Machine Works,Industrials,Diversified industrials,Coimbatore,1962,Machinery,P,A
+243,Lakshmi Vilas Bank,Financials,Banks,Chennai,1926,Bank,P,A
+244,Lanco Infratech,Conglomerate,—,New Delhi,1986,"Power, real estate, distribution",P,A
+245,Larsen & Toubro,Conglomerate,—,Mumbai,1938,"Industrials, ships, equipment, defense",P,A
+246,Lava International,Consumer goods,Consumer electronics,Noida,2009,"Computers, mobile handsets",P,A
+247,Liberty Shoes,Consumer goods,Footwear,Karnal,1954,Footwear,P,A
+248,Life Insurance Corporation,Financials,Life insurance,Mumbai,1956,State-owned Insurance company,S,A
+249,Living Media,Consumer services,Publishing,New Delhi,1975,Publisher,P,A
+250,LYF,Consumer goods,Consumer electronics,Mumbai,2015,"Computers, mobile handsets, part of Jio Platforms",P,A
+251,Mahanadi Coalfields,Energy,Coal,Sambalpur,1992,Coal mining,S,A
+252,Mahindra Aerospace,Industrials,Aerospace,Mumbai,2003,Light aircraft manufacturer,P,A
+253,Mahindra & Mahindra,Consumer goods,Automobiles,Mumbai,1945,Automotive,P,A
+254,Mahindra Group,Conglomerate,—,Mumbai,1945,"Automotive, IT services, finance, hospitality, agribusiness, aerospace, defense, logistics, real estate",P,A
+255,MakeMyTrip,Technology,Consumer digital services,Gurugram,2000,Travel & tourism,P,A
+256,Mangalore Chemicals & Fertilizers,Chemicals,Fertilizers,Bengaluru,1974,Fertilizers,P,A
+257,Marico,Consumer goods,Personal products,Mumbai,1991,Health and beauty,P,A
+258,Maruti Suzuki,Consumer goods,Automobiles,New Delhi,1981,"Automotive, part of Suzuki (Japan)",P,A
+259,Max Group,Conglomerate,—,New Delhi,1985,"Investment, financial services, healthcare",P,A
+260,Max Healthcare,Health care,Health care providers,New Delhi,2001,Part of Max Group,P,A
+261,Max Life Insurance,Financials,Life insurance,New Delhi,2001,Part of Max Group,P,A
+262,Max Ventures and Industries,Real estate,Real estate holding & development,New Delhi,2015,Part of Max Group,P,A
+263,Mazagon Dock Shipbuilders,Industrials,Shipbuilding,Mumbai,1934,Ship building,S,A
+264,MECON,Industrials,Business support services,Ranchi,1973,Consulting,S,A
+265,Mercator,Industrials,Marine transportation,Mumbai,1983,Shipping,P,A
+266,Metro Brands,Consumer goods,Footwear,Mumbai,1947,Footwear,P,A
+267,Microland,Technology,Software,Bengaluru,1989,Software consulting,P,A
+268,Micromax Informatics,Consumer goods,Consumer electronics,Gurugram,2000,"Consumer electronics, mobile handsets",P,A
+269,Milky Mist Dairy,Consumer goods,Food products,Erode,1992,Dairy,P,A
+270,Mindtree,Industrials,Business support services,Bengaluru,1999,"Consulting, outsourcing",P,A
+271,Mishra Dhatu Nigam,Basic materials,Metal fabricating,Hyderabad,1973,Alloys,P,A
+272,Mistral Solutions,Industrials,Business support services,Bengaluru,1997,"Consulting, product design",P,A
+273,MKU,Industrials,Defense,Kanpur,1985,Military equipment,P,A
+274,MMTC Ltd,Financials,Investment services,New Delhi,1963,Foreign exchange,S,A
+275,"Modern Coach Factory, Raebareli",Industrials,Railroad equipment,Raebareli,2012,Part of Indian Railways,S,A
+276,MOIL,Basic materials,General mining,Nagpur,1962,Mining,S,A
+277,Moser Baer,Technology,Computer hardware,New Delhi,1983,"Defunct in 2018, acquired by Vinpower, Inc. (USA)",P,D
+278,Mother Dairy,Consumer goods,Food products,Noida,1974,Dairy,S,A
+279,Mphasis,Industrials,Business support services,Bengaluru,2000,"Consulting, outsourcing",P,A
+280,MRF,Consumer goods,Tires,Chennai,1946,Tyres,P,A
+281,MS Shoes,Consumer goods,Footwear,Delhi,1986,Footwear,P,A
+282,MSTC Limited,Technology,Consumer digital services,Kolkata,1964,"Metal trading, e-commerce",S,A
+283,Mukand,Basic materials,Iron & steel,Mumbai,1937,Steel,P,A
+284,Munitions India,Industrials,Defense,Kanpur,2021,Munitions,S,A
+285,Murugappa Group,Conglomerate,—,Chennai,1900,"Cycles, general insurance, fertilizers, abrasives, automotive chains, car door frames, steel tubes & gearboxes",P,A
+286,Muthoot Finance,Financials,Investment services,Kochi,1939,"Financial advice, trading",P,A
+287,Myntra,Technology,Consumer digital services,Bengaluru,2009,E-commerce,P,A
+288,National Aluminium Company,Basic materials,Aluminium,Bhubaneswar,1981,Aluminium,S,A
+289,National Fertilizers,Chemicals,Fertilizers,Noida,1974,Fertilizers,S,A
+290,National Mineral Development Corporation,Basic materials,General mining,Hyderabad,1958,Mining,S,A
+291,National Payments Corporation of India,Technology,Consumer digital services,Mumbai,2008,Digital payment,S,A
+292,Nayara Energy,Energy,Oil refining & marketing,Mumbai,2017,"Major stock owned by Rosneft (Russia), 49.13%",P,A
+293,NBC Bearings,Industrials,Electrical equipment & components,Jaipur,1946,Bearings,P,A
+294,NBCC,Real estate,Real estate holding & development,New Delhi,1960,State-owned developer,S,A
+295,NDTV,Consumer services,Broadcasting & entertainment,New Delhi,1988,Television,P,A
+296,Network18 Group,Consumer services,Broadcasting & entertainment,Noida,1993,"Mass media, part of Reliance Industries",P,A
+297,NHPC,Utilities,Conventional electricity,Faridabad,1975,Hydroelectric,S,A
+298,NIIT,Industrials,Business support services,Gurugram,1981,Consulting,P,A
+299,Nilkamal Plastics,Chemicals,Specialty chemicals,Mumbai,1981,Industrial and consumer plastics,P,A
+300,Nirma,Chemicals,Specialty chemicals,Ahmedabad,1990,"Chemicals, cement, fast moving consumer goods",P,A
+301,NLC India Limited,Utilities,Conventional electricity,Neyveli,1956,Thermal power generation,S,A
+302,NTPC Limited,Utilities,Conventional electricity,New Delhi,1975,Thermal power generation,S,A
+303,Nuclear Power Corporation of India,Utilities,Conventional electricity,Mumbai,1987,State nuclear power generation,S,A
+304,Nykaa,Technology,Consumer digital services,Mumbai,2012,"Online beauty products, e-commerce",P,A
+305,Oil and Natural Gas Corporation,Energy,Integrated oil & gas,Dehradun,1956,State oil & gas exploration and production,S,A
+306,Oil India,Energy,Integrated oil & gas,Duliajan,1959,Oil exploration and production,S,A
+307,Ola Electric,Consumer goods,Automobiles,Bengaluru,2017,"Motorcycles, electric vehicles",P,A
+308,Omega Seiki Mobility,Consumer goods,Automobiles,New Delhi,2018,"Automotive, electric vehicles",P,A
+309,One97 Communications,Technology,Consumer digital services,Noida,2000,Ecommerce and fintech,P,A
+310,Onida Electronics,Consumer goods,Consumer electronics,Mumbai,1981,Consumer electronics,P,A
+311,Oracle Financial Services Software,Technology,Software,Mumbai,1990,Banking software,P,A
+312,Ordnance Factory Board,Industrials,Defense,Kolkata,1775,"Defense systems, firearms. Defunct 2021.  Dissolved factories assets transferred to 7 PSUs in 2021.[7]",P,D
+313,Oswald Labs,Technology,Software,New Delhi,2016,Accessibility technology,P,A
+314,Paramount Airways,Consumer services,Airlines,Chennai,2005,"Airline, defunct 2010",P,D
+315,Parle Agro,Consumer goods,Food products,Mumbai,1984,Drinks,P,A
+316,Parle Products,Consumer goods,Food products,Mumbai,1929,Food,P,A
+317,Patanjali Ayurved,Consumer goods,Ayurvedic producers,Haridwar,2006,"Ayurvedic & herbal products, cosmetics, personal products",P,A
+318,Pawan Hans,Consumer services,Airlines,Noida,1985,Helicopter services,S,A
+319,Pentamedia Graphics,Consumer services,Broadcasting & entertainment,Chennai[8],1976[8],"Animation studio, digital services",P,A
+320,Persistent Systems,Technology,Software,Nagpur,1990,"Software, consulting",P,A
+321,Petronet LNG,Energy,Oil refining & marketing,New Delhi,1998,"Liquefied natural gas importer, joint of Oil and Natural Gas Corporation, GAIL, Indian Oil Corporation & Bharat Petroleum",S,A
+322,Pidilite Industries,Chemicals,Specialty chemicals,Mumbai,1959,"Adhesives, chemicals",P,A
+323,Pine Labs,Technology,Consumer digital services,Noida,1998,Merchant payment,P,A
+324,Piramal Group,Health care,Pharmaceuticals,Mumbai,1988,Pharma,P,A
+325,Power Finance Corporation,Financials,Financial services,New Delhi,1986,State financing,S,A
+326,Power Grid Corporation of India,Industrials,Industrial suppliers,Gurugram,1989,State power transmission infrastructures,S,A
+327,PTC India,Financials,Financial services,New Delhi,1999,State power trading and financial solution,S,A
+328,Praj,Chemicals,Specialty chemicals,Pune,1983,"Ethanol plant, sugar processing",P,A
+329,Punj Lloyd,Industrials,Construction,New Delhi,1998[9],,P,A
+330,Punjab & Sind Bank,Financials,Banks,New Delhi,1908,Bank,S,A
+331,Punjab National Bank,Financials,Banks,New Delhi,1894,Bank,S,A
+332,Protean eGov Technologies,Technology,Consumer digital services,Mumbai,1995,Digital Public Infrastructure,P,A
+333,PVR INOX,Consumer services,Broadcasting & entertainment,Gurugram,1997,Movie theaters,P,A
+334,Raheja Developers,Real estate,Real estate holding & development,New Delhi,1990,Real estate,P,A
+335,Rail India Technical and Economic Service,Industrials,Engineering and contracting services,Gurugram,1974,"Consulting, part of Indian Railways",S,A
+336,Rajesh Exports,Basic materials,Gold mining,Bengaluru,1989,"Gold mining, refining & jewellery retailer",P,A
+337,Raheja Mindspace,Industrials,Business support services,Mumbai,1956,Industrial parks,P,A
+338,Ramco Systems,Technology,Software,Chennai,1992,Software,P,A
+339,Ranbaxy Laboratories,Health care,Pharmaceuticals,Gurugram,1961,Pharma,P,A
+340,Rapido,Technology,Consumer digital services,Bengaluru,2015,Digital bike cabs platform,P,A
+341,Rashtriya Chemicals & Fertilizers,Chemicals,Fertilizers,Mumbai,1978,Fertilizers,S,A
+342,Rashtriya Ispat Nigam,Basic materials,Iron & steel,Visakhapatnam,1982,Steel,S,A
+343,Raymond Group,Basic materials,Textile products,Mumbai,1925,Textiles,P,A
+344,REC Limited,Financials,Financial services,New Delhi,1969,Electrical infrastructure financing,S,A
+345,Rediff.com,Technology,Consumer digital services,Mumbai,1996,"Information, shopping portal",P,A
+346,Reliance Capital,Financials,Asset managers,Mumbai,1986,Part of Reliance Group,P,A
+347,Reliance Communications,Telecommunications,Telecommunications service providers,Mumbai,2002,Part of Reliance Group,P,A
+348,Reliance Digital,Retail,Specialty retailers,Mumbai,2007,"Electronic items, part of Reliance Retail",P,A
+349,Reliance Entertainment,Consumer services,Broadcasting & entertainment,Mumbai,2005,Part of Reliance Group,P,A
+350,Reliance Group,Conglomerate,—,Mumbai,1966,"Telecom, financials, industrials, consumer services",P,A
+351,Reliance Health,Health care,Health care providers,Mumbai,2006,Part of Reliance Group,P,A
+352,Reliance Industrial Infrastructure,Industrials,Construction,Mumbai,1988,Part of Reliance Industries,P,A
+353,Reliance Industries,Conglomerate,—,Mumbai,1966,"Oil & gas, industrials, consumer services, telecommunications",P,A
+354,Reliance Infrastructure,Industrials,Construction,Mumbai,2002,Part of Reliance Group,P,A
+355,Reliance Life Insurance,Financials,Life insurance,Mumbai,2001,Part of Reliance Group,P,A
+356,Reliance MediaWorks,Consumer services,Broadcasting & entertainment,Mumbai,1975,Part of Reliance Group,P,A
+357,Swan Defence and Heavy Industries Limited,Industrials,Shipbuilding,Rajula,1997,Purchased by Swan Energy in 2024,P,A
+358,Reliance Power,Utilities,Conventional electricity,Navi Mumbai,2007,"Thermal power generation, part of Reliance Group",P,A
+359,Reliance Retail,Retail,Diversified retailers,Mumbai,2006,"Supermarkets, part of Reliance Industries",P,A
+360,Route Mobile,Technology,Consumer digital services,Mumbai,2004,Cloud computing,P,A
+361,Royal Enfield,Consumer goods,Automobiles,Chennai,1955,Motorcycles,P,A
+362,RPG Group,Conglomerate,—,Mumbai,1979,"Technology, industrials",P,A
+363,RP-Sanjiv Goenka Group,Conglomerate,—,Kolkata,2011,"Industrials, beverages, sports club",P,A
+364,Sahara India Pariwar,Conglomerate,—,Lucknow,1978,"Financials, construction, media, retail",P,A
+365,Samtel Avionics,Industrials,Aerospace & defense,New Delhi,2005,Aerospace & defense,P,A
+366,Samtel Group,Conglomerate,—,New Delhi,1973,"Electronics, defense, real estate, construction, education",P,A
+367,Saravana Bhavan,Consumer goods,Food products,Chennai,1981,"Food, sweets, bakery, ice cream",P,A
+368,SAS Motors,Industrials,Agricultural & farm machinery,Faridabad,2004,Tractors,P,A
+369,Sasken Technologies,Industrials,Business support services,Bengaluru,1989,Engineering,P,A
+370,Sea6 Energy,Energy,Alternative energy,Bengaluru,2010,Biofuel,P,A
+371,Serum Institute of India,Health care,Pharmaceuticals & biotechcnology,Pune,1966,Vaccines,P,A
+372,Shapoorji Pallonji Group,Conglomerate,—,Mumbai,1865,"Real estate, industrials, consumer goods",P,A
+373,Shipping Corporation of India,Industrials,Marine transportation,Mumbai,1961,State-owned shipping,S,A
+374,Shoppers Stop,Retail,Diversified retailers,Mumbai,1991,Clothing & home departmental stores,P,A
+375,Shree Cement,Industrials,Cement,Kolkata,1979,Cement,P,A
+376,Shree Ganesh Jewellery House,Retail,Specialty retailers,Kolkata,2002,Jeweler,P,A
+377,Shree Renuka Sugars,Consumer goods,Food products,Belgaum,1998,Sugar,P,A
+378,Shriram Group,Conglomerate,—,Chennai,1974,"Financials, industrials, health care",P,A
+379,Singareni Collieries Company,Energy,Coal,Kothagudem,1920,Coal mining,S,A
+380,Skipper Limited,Industrials,Electrical equipment & components,Kolkata,1981,Electrical transmission infrastructure,P,A
+381,Skyroot Aerospace,Industrials,"Aerospace, space industry",Hyderabad,2018,Launch vehicles,P,A
+382,Snapdeal,Technology,Consumer digital services,New Delhi,2010,E-commerce,P,A
+383,Sobha,Real estate,Real estate holding & development,Bengaluru,1995,Developer,P,A
+384,Sonata Software,Technology,Software,Bengaluru,1986,BI and analytics,P,A
+385,South Indian Bank,Financials,Banks,Thrissur,1929,Private bank,P,A
+386,SpiceJet,Consumer services,Airlines,Gurugram,2004,Low-cost airline,P,A
+387,SSS Defence,Industrials,Defense,Bengaluru,2017,Firearms,P,A
+388,State Bank of India,Financials,Banks,Mumbai,1806,State bank,S,A
+389,Steel Authority of India Limited,Basic materials,Iron & steel,New Delhi,1954,State steel,S,A
+390,Sterlite Copper,Basic materials,Copper,Kolkata,1975,"Mining, part of Vedanta Resources (UK)",P,A
+391,Sterlite Technologies,Telecommunications,Telecommunications equipment,Pune,2000,"Optical fiber & cables, part of Vedanta Resources (UK)",P,A
+392,Suminter India Organics,Consumer goods,Food products,Mumbai,2003,Organic products,P,A
+393,Sun Group,Consumer services,Broadcasting & entertainment,Chennai,1992,"TV, publisher",P,A
+394,Sun Pharma,Health care,Pharmaceuticals,Mumbai,1983,Pharma,P,A
+395,Surya Roshni,Industrials,Diversified industrials,Delhi,1973,"Fans, PVC, kitchen appliances, lighting, steel",P,A
+396,Suzlon,Utilities,Alternative electricity,Pune,1995,Turbines,P,A
+397,Swiggy,Technology,Consumer digital services,Bengaluru,2014,"Food delivery, online grocery",P,A
+398,Synthite,Consumer goods,Food products,Kochi,1972,Value added spice extracts,P,A
+399,T-Series,Consumer services,Broadcasting & entertainment,Noida,1983,Record and film producer,P,A
+400,Tamil Nadu Newsprint and Papers Limited,Consumer services,Publishing,Chennai,1979,State publisher,S,A
+401,Tamilnad Mercantile Bank,Financials,Banks,Thoothukudi,1921,Bank,P,A
+402,Tanla Platforms,Technology,Consumer digital services,Hyderabad,1999,Cloud computing,P,A
+403,Tara International,Consumer goods,Automobiles,Mumbai,?,"Automotive, electric vehicles",P,A
+404,Tata Advanced Systems,Industrials,Aerospace & defense,Hyderabad,2007,"Aerospace, defense, part of Tata Sons",P,A
+405,Tata Business Support Services,Industrials,Business support services,Hyderabad,2004,Part of Tata Sons,P,A
+406,Tata Chemicals,Chemicals,Chemicals: diversified,Mumbai,1939,Part of Tata Sons,P,A
+407,Tata Communications,Telecommunications,Telecommunications service providers,Mumbai,1986,"Fixed-line telecommunications, part of Tata Sons",P,A
+408,Tata Consultancy Services,Industrials,Business support services,Mumbai,1968,Part of Tata Sons,P,A
+409,Tata Consumer Products,Consumer goods,Food products,Kolkata,1964,"Tea, coffee, part of Tata Sons",P,A
+410,Tata Group,Conglomerate,—,Mumbai,1868,Part of Tata Sons,P,A
+411,Tata Interactive Systems,Industrials,Business support services,Mumbai and Kolkata,1990,Part of Tata Sons,P,A
+412,Tata Motors,Consumer goods,Automobiles,Mumbai,1945,"Automotive, Part of Tata Sons",P,A
+413,Tata Play,Consumer services,Broadcasting & entertainment,Mumbai,2004,"Satellite streaming, part of Tata Sons",P,A
+414,Tata Power,Utilities,Conventional electricity,Mumbai,1910,"Thermal power generation, part of Tata Sons",P,A
+415,Tata Steel,Basic materials,Iron & steel,Mumbai,1907,Part of Tata Sons,P,A
+416,Tata Steel BSL,Basic materials,Iron & steel,New Delhi,1987,Steel,P,A
+417,Tata Technologies,Industrials,Industrial engineering,Pune,1989,"Engineering & design, IT services, part of Tata Sons",P,A
+418,Tech Mahindra,Industrials,Business support services,Pune,1986,"Consulting, BPO",P,A
+419,Terumo Penpol,Health care,Medical equipment,Thiruvananthapuram,1987,"Blood bag manufacturer, medical electronics, subsidiary of Terumo (Japan)",P,A
+420,Texmaco Rail & Engineering,Industrials,Railroad equipment,Kolkata,1939,Rail engineering,P,A
+421,The Muthoot Group,Conglomerate,—,Kochi,1887,"Financials, travel & leisure, healthcare, real estate",P,A
+422,Thermax,Industrials,Electrical equipment & components,Pune,1980,Energy engineering,P,A
+423,Thyrocare,Health care,Health care facilities,Navi Mumbai,1996,"Diagnostic, preventive care laboratories",P,A
+424,The Times Group,Consumer services,Broadcasting & entertainment,Mumbai,1838,Media conglomerate,P,A
+425,Titagarh Rail Systems,Industrials,Railroad equipment,Kolkata,1984,Rail industry,P,A
+426,Titan Company,Consumer goods,Clothing & accessories,Bengaluru,1984,"Watches, luxury products",P,A
+427,Torque Pharmaceuticals,Health care,Pharmaceuticals,Mohali,1985,Nutrition supplements,P,A
+428,Torrent Group,Conglomerate,—,Ahmedabad,1959,"Health care, industrials",P,A
+429,Toyota Kirloskar Motor,Consumer goods,Automobiles,Bengaluru,1997,"Automotive, joint venture of Kirloskar Group & Toyota (Japan)",P,A
+430,Tractors and Farm Equipment Limited,Industrials,Agricultural & farm machinery,Chennai,1960,Tractors,P,A
+431,TradeIndia,Technology,Consumer digital services,New Delhi,1996,Portal,P,A
+432,Travancore Cochin Chemicals,Chemicals,Chemicals: diversified,Kochi,1961,Chemicals,S,A
+433,Travancore Titanium Products,Chemicals,Specialty chemicals,Thiruvananthapuram,1946,Titanium dioxide,S,A
+434,Troop Comforts,Industrials,Defense,Kanpur,2021,Military clothing & equipment,S,A
+435,TTK Prestige,Consumer goods,Durable household products,Chennai,1955,Cookware,P,A
+436,TVS Motor Company,Consumer goods,Automobiles,Chennai,1978,Motorcycles,P,A
+437,UCO Bank,Financials,Banks,Kolkata,1943,State bank,S,A
+438,UltraTech Cement,Industrials,Cement,Mumbai,1983,Cement,P,A
+439,Union Bank of India,Financials,Banks,Mumbai,1919,State bank,S,A
+440,Unitech Group,Real estate,Real estate holding & development,New Delhi,1972,Real estate development,P,A
+441,United Breweries Group,Conglomerate,—,Bengaluru,1857,"Food & beverage, engineering, financials, part of Heineken (Netherlands)",P,A
+442,UPL,Chemicals,Specialty chemicals,Mumbai,1969,Chemicals,P,A
+443,USV,Health care,Pharmaceuticals,Navi Mumbai,1961,Pharma,P,A
+444,V-Guard Industries,Consumer goods,Consumer electronics,Kochi,1977,"Electrical goods, home appliances",P,A
+445,VA Tech Wabag,Utilities,Water,Chennai,1924,Water treatment,P,A
+446,Vadilal,Conglomerate,—,Ahmedabad,1907,"Chemicals, food & beverage, financials",P,A
+447,Vedanta Limited,Conglomerate,—,New Delhi,1979,"Mining, oil & gas, utility, steel, part of Vedanta Resources (UK)",P,A
+448,Vicco Group,Health care,Ayurvedic producers,Mumbai,1952,Alternative medicines,P,A
+449,Videocon Group,Conglomerate,—,Mumbai,1979,"Industrials, consumer goods, oil & gas, owned by Vedanta Resources (UK)",P,A
+450,Vijaya Bank,Financials,Banks,Bengaluru,1931,State bank,S,A
+451,VIP Industries,Consumer goods,Recreational products,Mumbai,1971,Luggage,P,A
+452,Vodafone Idea,Telecommunications,Telecommunications services,Mumbai,1995,"Mobile network, joint venture of Aditya Birla Group & Vodafone (UK)",P,A
+453,Voltas,Consumer goods,Consumer electronics,Mumbai,1954,Home appliances,P,A
+454,Voonik,Technology,Consumer digital services,Bengaluru,2013,Online marketplace,P,A
+455,VST Industries,Consumer goods,Tobacco,Hyderabad,1930,Tobacco,P,A
+456,Wadia Group,Conglomerate,—,Mumbai,1736,"Chemicals, industrials",P,A
+457,Walchandnagar Industries,Conglomerate,—,Mumbai,1908,"Energy, transportation, nuclear industry",P,A
+458,WAPCOS Limited,Industrials,Engineering and contracting services,New Delhi,1969,Engineering & consultancy,P,A
+459,Welspun Corp,Industrials,Diversified industrials,Mumbai,1995,Part of Welspun World,P,A
+460,Welspun Energy,Utilities,Alternative electricity,New Delhi,2002,"Solar power generation, part of Welspun World",P,A
+461,Welspun Living,Basic materials,Textile products,Mumbai,1985,"Textiles, part of Welspun World",P,A
+462,Welspun World,Conglomerate,—,Mumbai,1985,"Steel, energy, investments, retail",P,A
+463,West Bengal Electronics Industry Development Corporation,Industrials,Electronic equipment & components,Kolkata,1974,"Capacitors, driven equipment, picture tubes, telephone exchanges",S,A
+464,West Bengal State Co-Operative Bank,Financials,Banks,Kolkata,1918,State bank,S,A
+465,Wipro,Industrials,Business support services,Bengaluru,1945,"Consulting, BPO",P,A
+466,XOLO,Consumer goods,Consumer electronics,Noida,2012,Mobile handsets,P,A
+467,Yantra India,Industrials,Defense,Nagpur,2021,Defence equipment,S,A
+468,Yatra,Consumer services,Travel & tourism,Gurugram,2006,Travel agency,P,A
+469,Yebhi,Technology,Consumer digital services,Gurugram,2009,E-commerce,P,A
+470,Yepme,Technology,Consumer digital services,Gurugram,2011,E-commerce,P,A
+471,Yes Bank,Financials,Banks,Mumbai,2004,Private bank,P,A
+472,Zandu Realty,Health care,Ayurvedic producers,Mumbai,1910,"Alternative medicines, part of Emami",P,A
+473,Zee Entertainment Enterprises,Consumer services,Broadcasting & entertainment,Mumbai,1992,Broadcaster,P,A
+474,Zee News,Consumer services,Broadcasting & entertainment,Mumbai,1999,News channel,P,A
+475,Zensar Technologies,Technology,Software & IT services,Pune,1991,IT services and software,P,A
+476,Zeta,Technology,Consumer digital services,Mumbai,2015,Fintech,P,A
+477,Zoho Corporation,Technology,Software,Chennai,1996,Business management software,P,A
+478,Zomato,Technology,Consumer digital services,Gurugram,2008,Food delivery,P,A
+479,Zydus Lifesciences,Health care,Pharmaceuticals,Ahmedabad,1952,Pharma,P,A
