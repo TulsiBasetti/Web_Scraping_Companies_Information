@@ -21,3 +21,19 @@ A Python-based web scraping tool designed to collect structured information abou
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+3. Run the scraper script: 
+   ```bash
+   python scrape_companies.py
+4. The scraped data will be saved in a CSV or JSON file (depending on your implementation).
+
+## Requirements
+
+- Python 3.x  
+- `requests`  
+- `beautifulsoup4`
+
+## Notes
+
+- This scraper is designed specifically for Wikipedia company pages, so it may require adjustments for other sources.  
+
+
