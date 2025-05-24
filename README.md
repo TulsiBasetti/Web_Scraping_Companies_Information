@@ -24,7 +24,7 @@ A Python-based web scraping tool designed to collect structured information abou
 3. Run the scraper script: 
    ```bash
    python scrape_companies.py
-4. The scraped data will be saved in a CSV or JSON file (depending on your implementation).
+4. The scraped data will be saved in a CSV.
 
 ## Requirements
 
