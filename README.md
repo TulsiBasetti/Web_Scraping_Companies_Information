@@ -21,9 +21,9 @@ A Python-based web scraping tool designed to collect structured information abou
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
-3. Run the scraper script: 
+3. Open the notebook in Jupyter: 
    ```bash
-   python scrape_companies.py
+   jupyter notebook company_information.ipynb
 4. The scraped data will be saved in a CSV.
 
 ## Requirements
