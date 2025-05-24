@@ -34,6 +34,6 @@ A Python-based web scraping tool designed to collect structured information abou
 
 ## Notes
 
-- This scraper is designed specifically for Wikipedia company pages, so it may require adjustments for other sources.  
+- This scraper is designed specifically for Wikipedia company pages (https://en.wikipedia.org/wiki/List_of_companies_of_India), so it may require adjustments for other sources.  
 
 
